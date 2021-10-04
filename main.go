@@ -39,7 +39,7 @@ func main() {
 	}
 
 	// Get timeDelay from the user's input.
-	fmt.Print("Waktu delay (dalam detik): ")
+	fmt.Print("Waktu delay (dalam milidetik): ")
 	reader = bufio.NewReader(os.Stdin)
 	input, err = reader.ReadString('\n'); if err != nil {log.Fatal(err)}
 	input = strings.TrimSuffix(input, "\n")
