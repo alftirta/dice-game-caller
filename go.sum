@@ -1,6 +1,4 @@
-github.com/alftirta/dice-game v0.0.0-20210828211151-d4c350b0fd34 h1:Oy0sM8/U4PtX+2iSYWz0wzSDV3EW+UxIFjmbm/mZanA=
-github.com/alftirta/dice-game v0.0.0-20210828211151-d4c350b0fd34/go.mod h1:jVVfjjXUKnM6fdKpQ5Cd8xTAcejIQJUuY2eqL5+DRW8=
-github.com/alftirta/dice-game v0.0.0-20210828211625-69a91a2a6b7b h1:bFPETiADuwoin/jQwnULDM+A0BVxc7z1vE7WKJqgdKw=
-github.com/alftirta/dice-game v0.0.0-20210828211625-69a91a2a6b7b/go.mod h1:jVVfjjXUKnM6fdKpQ5Cd8xTAcejIQJUuY2eqL5+DRW8=
 github.com/alftirta/dice-game v0.0.0-20210828213958-4da19ce75784 h1:3HcXQrpra+7j6eLh2faWZQKnzXQvwSXboEiNVd42cr8=
 github.com/alftirta/dice-game v0.0.0-20210828213958-4da19ce75784/go.mod h1:jVVfjjXUKnM6fdKpQ5Cd8xTAcejIQJUuY2eqL5+DRW8=
+github.com/alftirta/dice-game v0.0.0-20211004125347-3dbdf16fe95e h1:v6rss5YNQk6FQt5hui8bEchH7fCVZj+974bXE5QUmeU=
+github.com/alftirta/dice-game v0.0.0-20211004125347-3dbdf16fe95e/go.mod h1:jVVfjjXUKnM6fdKpQ5Cd8xTAcejIQJUuY2eqL5+DRW8=
