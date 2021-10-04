@@ -1,18 +1,18 @@
 # dice-game-caller
 
-```dice-game-caller``` is simply an app that calls out a ```dice-game``` module so that you can create and play a dice game with the following rules:
+A ```dice-game-caller``` is a CLI app written in Golang and it simply calls out a ```dice-game``` library module where you can create and play a dice game with the following rules:
 
 * At the start of the game, each player will get the same amount of dice as specified by the game owner.
 
 * In each turn, all players roll all of their dice simultaneously.
 
-* For each numbered 6 die, a player will get  1 point, and the die will be removed from the game.
+* For each numbered 6 die, a player will get  6 points, and the die will be removed from the game.
 
-* For each numbered 1 die, a player have to give the die to the next player, for example if it's player 1 then he/she has to give the die to player 2.
+* For each numbered 1 die, a player has to give the die to the next player, for example if it's player 1 then he/she has to give the die to player 2.
 
 * If a player has lost all of his/her dice, then the player is out from the game.
 
-* After each die has been evaluated, then comes the next turn, all players roll all of their dice.
+* After each die has been evaluated, then it comes the next turn, all players roll all of their dice again.
 
 * The game continues until at least only one player remains.
 
